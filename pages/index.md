@@ -6,6 +6,7 @@
 |--------------------------------------|-------------------|---------------------------------|
 | [Deutsch / toki Tosi](de_index.html) | [Ret "jan Ke Tami" Samys](https://janketami.wordpress.com), Murdock | 2023-08-13 |
 | [Esperanto / toki Epelanto](eo_index.html) | acreativename41, jan Pensa, soweli suno (Eriko) | 2022-07-06 |
+| [Bahasa Indonesia / toki Intonesija](id_index.html) | Avaxar | 2023-08-10 |
 | [Polski / toki Posuka](pl_index.html) | p0-12,x1,x2: Maksymilian Król (jan Otele), p13: Alicja / jan Alise (filiżanka#4087) | 2021-10-13 |
 | [Português / toki Potuke](pt_index.html) | jan Alise - Alice de Paula | 2023-06-17 |
 | [Русский / toki Losi](ru_index.html) | jan Lentan        | 2022-05-22 |
@@ -257,4 +258,3 @@ src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work
 is licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
 Attribution-ShareAlike 4.0 International License</a>.
-
