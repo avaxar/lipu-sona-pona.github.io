@@ -1,82 +1,84 @@
-% toki pona page 2 - adjectives
+% toki pona halaman 2 - kata sifat
 % /dev/urandom
 % 2023-08-10
 
-The vocabulary for this page:
+Kosa kata pada halaman ini:
 
-| word    | meaning                          |
-|---------|----------------------------------|
-| ala     | no, not, zero                    |
-| ale/ali | all, everything, universe        |
-| utala   | fight, battle, challenge         |
-| wawa    | strong, powerful                 |
-| suwi    | sweet, cute, adorable            |
-| jan     | person, people, humanity         |
-| mama    | parent, ancestor, creator, origin|
-| meli    | woman, female, feminine, wife    |
-| mije    | man, male, masculine, husband    |
-| moku    | food, to eat                     |
+| kata    | arti                               |
+|---------|------------------------------------|
+| ala     | tidak, bukan, tanpa, nol, tiada    |
+| ale/ali | semua, tak terhingga, alam semesta |
+| utala   | tarung, perang, tempur, tantangan  |
+| wawa    | kuat, keras, tangguh               |
+| suwi    | manis, lucu, imut                  |
+| jan     | orang, manusia, kemanusiaan,       |
+| mama    | wali, orang tua, pembuat, asal     |
+| meli    | gadis, wanita, feminin, istri      |
+| mije    | laki-laki, pria, maskulin, suami   |
+| moku    | makanan, makan                     |
 
-To define subjects and adjectives more clearly, you can add extra words as
-adjectives. In toki pona, an adjective that modifies a noun stands after the
-noun in question. This is unlike English, where adjectives go before nouns, but
-similar to French. So, for example:
+Agar dapat mendeskripsikan subjek atau kata sifat lebih jelas, kata-kata bisa
+ditambahkan mengikutinya sebagai kata sifat. Dalam bahasa toki pona, kata sifat
+yang berperan pada kata benda diletakan setelah kata benda. Aturan tata bahasa
+tersebut juga terdapat pada bahasa Indonesia. Contohnya:
 
-> jan wawa -- strong person
+> jan wawa -- orang kuat
 
-Many of the nouns covered before can also function as adjectives. For example,
-the pronouns "mi", "sina" and "ona" can serve as possessives.
+Kosa kata dari halaman sebelumnya juga bisa berfungsi sebagai kata sifat. Contohnya,
+kata ganti "mi", "sina", dan "ona" bisa digunakan sebagai kata sifat untuk
+menunjukan kepemilikan.
 
-> mama mi -- my parent
+> mama mi -- orang tuaku
 
-> soweli sina -- your animal
+> soweli sina -- hewanmu
 
-> moku ona -- his/her/their food 
+> moku ona -- makanannya
 
-In addition, adjectives can function as nouns:
+Selagi itu, kata sifat juga bisa berfungsi sebagai kata benda abstrak:
 
-> wawa sina -- your strength
+> wawa sina -- kekuatanmu
 
-> suli ona -- his/her/their greatness/size
+> suli ona -- tinggi/kebesarannya
 
 > %info%
-> Of note is the phrase "jan pona", which literally means "good person", but is
-> widely (and officially) accepted to also mean "friend".
+> Frasa "jan pona" (masing-masing kedua kata berarti "orang baik") secara resmi
+> dan dikenal luas mempunyai arti "teman".
 
-Several adjectives can be added at once:
+Beberapa kata sifat bisa ditambahkan sekaligus:
 
-> soweli lili suwi -- cute pet ("little animal")
+> soweli lili suwi -- peliharaan ("hewan kecil") imut
 
-Here are some example sentences that demonstrate this:
+Berikut adalah beberapa contoh kalimat yang menggunakan kosa kata dan tata bahasa
+yang telah diajarkan:
 
-> mama mi li pona. - My parents are good.
+> mama mi li pona. - Orang tuaku baik.
 
-> kili suwi li moku pona. - Sweet fruits are good food.
+> kili suwi li moku pona. - Buah-buahan manis adalah makanan baik.
 
-> jan utala li wawa. - The warrior ("fighting person") is strong.
+> jan utala li wawa. - Tentara ("orang tempur") kuat.
 
-> jan lili mi li suwi. - My children ("young people") are cute.
+> jan lili mi li suwi. - Anak ("orang kecil/muda")-ku manis.
 
-> soweli lili li wawa ala. - Little animals are not strong.
+> soweli lili li wawa ala. - Hewan kecil tidak kuat.
 
 > %warning%
-> It is worth noting that the particle "li" is only removed if the subject is
-> just the word "mi" or "sina". If it has any adjectives added to it, then the
-> particle is used.
+> Perlu diingat bahwa partikel "li" hanya dihilangkan jika subjek dari kalimat
+> adalah "mi" atau "sina". Jika ada kata sifat yang ditambahkan setelahnya,
+> partikel tersebut tidak dihilangkan.
 >
-> sina pona. - You are good.
-> 
-> sina ale li pona. - All of you ("you all") are good.
+> sina pona. - Kamu baik.
 >
+> sina ale li pona. - Kalian ("kamu semua") baik.
 
 > %info%
-> In addition to "mije" and "meli", some people also use the word "tonsi"
-> to refer to non-binary people, genderqueer people or others who don't fit into 
-> either "man" or "woman". See [extra page 1](id_x1.html) for more information.
+> Selain "mije" dan "meli", beberapa juga menggunakan kata "tonsi" yang merujuk
+> pada orang nonbiner atau _genderqueer_ dalam komunitas LGBTQ+ yang tidak
+> dikategorisasikan pada jenis kelamin "pria" ataupun "wanita". Bacalah
+> [halaman ekstra 1](id_x1.html) untuk informasi lanjut.
 
-## Exercises
+## Latihan
 
-Now, try to figure out the meaning of these sentences.
+Sekarang, cobalah untuk mencari arti dari kalimat-kalimat berikut.
 
 * meli mi li pona.
 * mije sina li suli.
@@ -84,14 +86,14 @@ Now, try to figure out the meaning of these sentences.
 * soweli ale li pona.
 * kili li moku suli.
 
-And try to translate the following sentences into toki pona.
+Dan cobalah untuk menerjemahkan kalimat-kalimat ini dalam bahasa toki pona.
 
-* My wife is adorable.
-* All warriors are bad.
-* My friends are your friends.
-* Your son is strong.
-* The small fruit is sweet.
+* Istri saya manis.
+* Semua petarung buruk.
+* Temanku adalah temanmu.
+* Putramu kuat.
+* Buah kecil manis.
 
-[Answers](id_answers.html#p2)
+[Kunci jawaban](id_answers.html#p2)
 
-[Previous page](id_1.html) [Top page](id_index.html) [Next page](id_3.html)
+[Kembali](id_1.html) [Laman utama](id_index.html) [Lanjut](id_3.html)

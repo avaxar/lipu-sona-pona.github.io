@@ -72,35 +72,35 @@ ini, dan setiap laman setelahnya akan memperkenalkan 10 kosa kata baru dari kamu
 
 ### Halaman kursus
 
-* [page 0 - penulisan dan pelafalan](id_0.html)
+* [halaman 0 - penulisan dan pelafalan](id_0.html)
 
-* [page 1 - kalimat-kalimat dasar](id_1.html)
+* [halaman 1 - kalimat-kalimat dasar](id_1.html)
 
-* [page 2 - kata sifat](id_2.html)
+* [halaman 2 - kata sifat](id_2.html)
 
-* [page 3 - verba dan objek](id_3.html)
+* [halaman 3 - verba dan objek](id_3.html)
 
-* [page 4 - oh tidak! lebih banyak kosa kata](id_4.html)
+* [halaman 4 - oh tidak! lebih banyak kosa kata](id_4.html)
 
-* [page 5 - ini dan itu](id_5.html)
+* [halaman 5 - ini dan itu](id_5.html)
 
-* [page 6 - preposisi dan lokasi](id_6.html)
+* [halaman 6 - preposisi dan lokasi](id_6.html)
 
-* [page 7 - interjeksi, pertanyaan, perintah, dan nama-nama](id_7.html)
+* [halaman 7 - interjeksi, pertanyaan, perintah, dan nama-nama](id_7.html)
 
-* * [page 7a - lebih lanjut tentang membuat kata-kata baru](id_7a.html)
+* * [halaman 7a - lebih lanjut tentang pembuatan kata-kata baru](id_7a.html)
 
-* [page 8 - warna-warni bahasa](id_8.html)
+* [halaman 8 - warna-warni bahasa](id_8.html)
 
-* [page 9 - kata sifat kompleks dan konteks](id_9.html)
+* [halaman 9 - kata sifat kompleks dan konteks](id_9.html)
 
-* [page 10 - praverba dan waktu](id_10.html)
+* [halaman 10 - praverba dan waktu](id_10.html)
 
-* [page 11 - angka](id_11.html)
+* [halaman 11 - angka](id_11.html)
 
-* [page 12 - halaman final](id_12.html)
+* [halaman 12 - halaman final](id_12.html)
 
-* [page 13 - edisi kamus spesial](id_13.html) **BARU**
+* [halaman 13 - edisi kamus spesial](id_13.html) **BARU**
 
 ### Halaman ekstra
 
